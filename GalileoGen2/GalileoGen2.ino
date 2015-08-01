@@ -7,7 +7,6 @@
 #define SW 2
 
 struct pt pt_taskSW;
-struct pt pt_taskRecieveSerial;
 struct pt pt_taskSendSerial;
 
 int led1, led2, led3, led4;
@@ -97,7 +96,6 @@ void setup()
   pinMode(SW, INPUT);
 
   PT_INIT(&pt_taskSW);
-  PT_INIT(&pt_taskRecieveSerial);
   PT_INIT(&pt_taskSendSerial);
 }
 
