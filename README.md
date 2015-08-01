@@ -1,6 +1,6 @@
 # exceed12_warning
 
-/Full_Galileo - Use GalileoGen2 for Test full communicates Server\n
+/Full_Galileo - Use GalileoGen2 for Test full communicates Server
 /GalileoGen2 - Use GalileoGen2 communicates Server by Serial Port
 /Galileo_Workshop - Code GalileoGen2 of WorkShop Parking Car Area
 /basic_multiTasking - 2 LEDs Parallel
